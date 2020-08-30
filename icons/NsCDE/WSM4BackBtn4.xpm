@@ -2,9 +2,9 @@
 /* This file is a part of the NsCDE - Not so Common Desktop Environment */
 static char * WSM4BackBtn4_xpm[] = {
 "126 30 3 1",
-"       s background   m black   c #736b736b8f83",
-".      s topShadowColor   m white   c #c079c079cd2a",
-"#      s bottomShadowColor   m white   c #394739474738",
+"       s background   m black   c #500060009300",
+".      s topShadowColor   m white   c #af36b68ecdf7",
+"#      s bottomShadowColor   m white   c #268f2e4546da",
 "##############################################################################################################################",
 "#                                                                                                                            .",
 "#                                                                                                                            .",

@@ -8,7 +8,7 @@ NEdit*XmCursorPositionVisible: FALSE
 NEdit*text.cursorForeground: Green
 NEdit*text.cursorBackground: Red
 NEdit.textFgColor: #ffffffffffff
-NEdit.textBgColor: #557b64e9707a
+NEdit.textBgColor: #620065007a00
 NEdit.cursorFgColor: #ffffffffffff
 NEdit*text.autoWrapPastedText: False
 NEdit*text.heavyCursor: True

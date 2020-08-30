@@ -13,10 +13,10 @@ static char *lock24[]={
 /* width height ncolors cpp [x_hot y_hot] */
 "24 24 20 1 0 0",
 /* colors */
-"$    s topShadowColor m white c #b94dbb59ca50",
+"$    s topShadowColor m white c #e2c5c9f9c0ac",
 "&    c None",
-"(    s selectColor m white c #55c65997757f",
-"*    s bottomShadowColor m black c #314633784380",
+"(    s selectColor m white c #a18071e6600c",
+"*    s bottomShadowColor m black c #61ba44ec3a1f",
 ". s iconColor1 c black     m black",
 ", s iconColor2 c white     m white",
 "4 s iconColor3 c red       m black",

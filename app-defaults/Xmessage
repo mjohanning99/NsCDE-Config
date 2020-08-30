@@ -6,13 +6,13 @@
 
 xmessage*title: 
 xmessage.geometry: 410x84
-xmessage*background: #5af46c1681ef
+xmessage*background: #840086008a00
 xmessage*foreground: #ffffffffffff
 xmessage*borderColor: #ffffffffffff
 xmessage*ShapeStyle: Rectangle
 xmessage.form.message.height: 40
 xmessage*message*foreground: #ffffffffffff
-xmessage*message*background: #557b64e9707a
+xmessage*message*background: #620065007a00
 xmessage*font: -*-lucida-bold-r-normal-*-18-*-*-*-*-*-*
 xmessage.Scroll: Never
 xmessage*translations: #override \n\

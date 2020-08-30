@@ -12,8 +12,8 @@ static char * FpCM_l_pm[] = {
 "48 48 12 1 0 0",
 /* colors */
 " 	s none	m none	c none",
-".    s topShadowColor m white c #b94dbb59ca50",
-"X    s bottomShadowColor m black c #314633784380",
+".    s topShadowColor m white c #e2c5c9f9c0ac",
+"X    s bottomShadowColor m black c #61ba44ec3a1f",
 "o    s iconGray8     m black c #212121212121",
 "O	s iconColor2	m white	c white",
 "+    s iconGray3     m white c #adadadadadad",

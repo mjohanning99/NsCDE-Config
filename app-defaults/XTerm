@@ -12,9 +12,9 @@ XTerm*saveLines: 1500
 XTerm*scrollBar: true
 XTerm*cursorColor: #ffffffffffff
 XTerm.VT100*pointerColor: #ffffffffffff
-XTerm*Background: #557b64e9707a
+XTerm*Background: #620065007a00
 XTerm*Foreground: #ffffffffffff
-XTerm.vt100.background: #557b64e9707a
+XTerm.vt100.background: #620065007a00
 XTerm.vt100.foreground: #ffffffffffff
 XTerm*fullCursor: true
 XTerm*titleBar: false

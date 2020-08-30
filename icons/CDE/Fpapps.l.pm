@@ -17,10 +17,10 @@ static char * Fpapps_l_pm[] = {
 "&	s iconColor8	m black	c magenta",
 "*    s iconGray7     m black c #424242424242",
 "=	s iconColor6	m white	c yellow",
-"-    s bottomShadowColor m black c #314633784380",
-";    s selectColor m white c #55c65997757f",
+"-    s bottomShadowColor m black c #61ba44ec3a1f",
+";    s selectColor m white c #a18071e6600c",
 ":	s iconColor7	m white	c cyan",
-"?    s topShadowColor m white c #b94dbb59ca50",
+"?    s topShadowColor m white c #e2c5c9f9c0ac",
 /* pixels */
 "                                                ",
 "                                                ",

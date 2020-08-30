@@ -5,7 +5,7 @@
 !
 
 XFontSel.geometry: 656x242+16+133
-XFontSel*Background: #5af46c1681ef
+XFontSel*Background: #840086008a00
 XFontSel*Foreground: #ffffffffffff
 
 XFontSel.cursor:	left_ptr
@@ -15,8 +15,8 @@ XFontSel.cursor:	left_ptr
 *commandBox*top:	chainTop
 *commandBox*bottom:	chainTop
 
-xfontsel.pane.fontName.background: #557b64e9707a
-xfontsel.pane.viewPort.sampleText.background: #557b64e9707a
+xfontsel.pane.fontName.background: #620065007a00
+xfontsel.pane.viewPort.sampleText.background: #620065007a00
 
 *quitButton.Label:	dismiss
 

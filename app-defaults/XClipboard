@@ -8,8 +8,8 @@
 ! XClipboard resources
 ! ====================
 
-xclipboard*Background: #5af46c1681ef
+xclipboard*Background: #840086008a00
 xclipboard*Foreground: #ffffffffffff
 xclipboard*geometry: 400x200
-xclipboard.form.text.background: #557b64e9707a
-xclipboard.form.text.borderColor: #4d4f5bdf6e71
+xclipboard.form.text.background: #620065007a00
+xclipboard.form.text.borderColor: #703371e6754c

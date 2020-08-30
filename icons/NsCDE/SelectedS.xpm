@@ -2,8 +2,8 @@
 /* This file is a part of the NsCDE - Not so Common Desktop Environment */
 static char * SelectedS_xpm[] = {
 "36 26 2 1",
-".      s background m black c #d554a15d1824",
-"+      s selectColor m black c #55c65997757f",
+".      s background m black c #e60093005300",
+"+      s selectColor m black c #a18071e6600c",
 "++++++++++++++++++++++++++++++++++++",
 "+..................................+",
 "+.++++++++++++++++++++++++++++++++.+",

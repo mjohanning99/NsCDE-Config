@@ -5,9 +5,9 @@ static char * Fppenpd_l_pm[] = {
 "48 48 16 1 0 0",
 /* colors */
 " 	s none	m none	c none",
-".    s bottomShadowColor m black c #314633784380",
+".    s bottomShadowColor m black c #61ba44ec3a1f",
 "X	s iconColor2	m white	c white",
-"o    s topShadowColor m white c #b94dbb59ca50",
+"o    s topShadowColor m white c #e2c5c9f9c0ac",
 "O    s iconGray1     m white c #dededededede",
 "+    s iconGray8     m black c #212121212121",
 "@    s iconGray3     m white c #adadadadadad",
@@ -19,7 +19,7 @@ static char * Fppenpd_l_pm[] = {
 "=    s iconGray2     m white c #bdbdbdbdbdbd",
 "-    s iconGray4     m white c #949494949494",
 ";	s iconColor8	m black	c magenta",
-":    s selectColor m white c #55c65997757f",
+":    s selectColor m white c #a18071e6600c",
 /* pixels */
 "                                                ",
 "                                                ",

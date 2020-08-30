@@ -5,13 +5,13 @@
 !
 
 URxvt*geometry: 86x26
-URxvt*background: #557b64e9707a
+URxvt*background: #620065007a00
 URxvt*foreground: #ffffffffffff
 URxvt*highlightColor: #ffffffffffff
-URxvt*highlightTextColor: #557b64e9707a
-URxvt*scrollColor: #64e969678a3c
-URxvt*troughColor: #55c65997757f
-URxvt*borderColor: #64e969678a3c
+URxvt*highlightTextColor: #620065007a00
+URxvt*scrollColor: #be0086007100
+URxvt*troughColor: #a18071e6600c
+URxvt*borderColor: #be0086007100
 URxvt*thickness: 12
 URxvt*scrollBar_right: True
 URxvt*urgentOnBell: True

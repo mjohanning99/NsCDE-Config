@@ -4,8 +4,8 @@ static char * handle [] = {
 /* width height ncolors cpp [x_hot y_hot] */
 "20 80 2 1 0 0",
 /* colors */
-"     s bottomShadowColor m black c #2c1834673efe",
-".    s topShadowColor m white c #b479bc50c64f",
+"     s bottomShadowColor m black c #42aa43ad45b2",
+".    s topShadowColor m white c #c882c967cb32",
 /* pixels */
 "                    ",
 "....................",

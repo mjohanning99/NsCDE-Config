@@ -3,3 +3,17 @@ S8,WIDTH,160
 S8,ENABLED,1
 S8,ENTRY,Atom,,32x32-atom.png,atom
 S8,ENTRY,Anki,,32x32-anki.png,anki 
+S1,NAME,$[gt.Communications]
+S1,WIDTH,178
+S1,ENABLED,1
+S1,ENTRY,Mozilla Firefox,,hicolor/32x32/apps/firefox.png,firefox
+S1,ENTRY,WhatsApp,,hicolor/32x32/apps/whatsapp-nativefier.png,whatsapp-nativefier
+S1,ENTRY,Telegram Desktop,,hicolor/32x32/apps/telegram.png,telegram-desktop -- 
+S1,ENTRY,Google Chrome,,hicolor/32x32/apps/google-chrome.png,google-chrome
+S1,ENTRY,$[gt.Chromium Browser],,hicolor/32x32/apps/chromium-browser.png,chromium-browser
+S1,ENTRY,$[gt.Chromium Browser],,hicolor/32x32/apps/chromium-browser.png,chromium
+S1,ENTRY,$[gt.Yandex Browser],,hicolor/32x32/apps/yandex-browser-beta.png,yandex-browser
+S1,ENTRY,Pidgin IM,,hicolor/32x32/apps/pidgin.png,pidgin
+S1,ENTRY,Ekiga Softphone,,hicolor/32x32/apps/ekiga.png,ekiga
+S1,ENTRY,FileZilla,,hicolor/32x32/apps/filezilla.png,filezilla
+S1,ENTRY,TigerVNC $[gt.Viewer],,hicolor/32x32/apps/tigervnc.png,vncviewer

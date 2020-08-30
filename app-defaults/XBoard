@@ -9,16 +9,16 @@
 ! ==================================================================
 
 XBoard*geometry: +120+30
-XBoard*background: #5af46c1681ef
+XBoard*background: #840086008a00
 XBoard*foreground: #ffffffffffff
 XBoard*SimpleMenu*shadowWidth: 3
 XBoard*whiteTime*shadowWidth: 3
 XBoard*blackTime*shadowWidth: 3
 XBoard.normalLayout.form.whiteTime.foreground: #ffffffffffff
-XBoard.normalLayout.form.whiteTime.background: #2c1834673efe
+XBoard.normalLayout.form.whiteTime.background: #42aa43ad45b2
 XBoard*highlightLastMove: True
 XBoard*whitePieceColor: #FFF7E9
 XBoard*blackPieceColor: #000000
 XBoard*lightSquareColor: #ffffffffffff
-XBoard*darkSquareColor: #5af46c1681ef
-XBoard*highlightSquareColor: #4d4f5bdf6e71
+XBoard*darkSquareColor: #840086008a00
+XBoard*highlightSquareColor: #703371e6754c

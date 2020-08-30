@@ -3,8 +3,8 @@
 static char * Mouse_Setup_Clicked_xpm[] = {
 "76 101 3 1",
 "       c None",
-"+ s bottomShadowColor m white c #262c2db63752",
-". s topShadowColor m black c #aec5b619bf71",
+"+ s bottomShadowColor m white c #7dd572096c6b",
+". s topShadowColor m black c #f295e9c8e597",
 "............................................................................",
 "...........................................................................+",
 ".+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++",

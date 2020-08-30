@@ -12,10 +12,10 @@ static char * Fdropzn [] = {
 "32 32 5 1 0 0",
 /* colors */
 " 	s none	m none	c none",
-".    s bottomShadowColor m black c #314633784380",
-"X    s selectColor m white c #55c65997757f",
-"o    s background    m black c #64e969678a3c",
-"O    s topShadowColor m white c #b94dbb59ca50",
+".    s bottomShadowColor m black c #61ba44ec3a1f",
+"X    s selectColor m white c #a18071e6600c",
+"o    s background    m black c #be0086007100",
+"O    s topShadowColor m white c #e2c5c9f9c0ac",
 /* pixels */
 "                                ",
 "                                ",

@@ -2,12 +2,12 @@
 /* This file is a part of the NsCDE - Not so Common Desktop Environment */
 static char * IconBgA_xpm[] = {
 "76 76 6 1",
-"%      s topShadowColor  m white c #ecffd5dc98c3",
-".      s bottomShadowColor  m black c #6cb152370c4c",
-"$      s topShadowColor  m white c #b94dbb59ca50",
-"+      s bottomShadowColor  m black c #314633784380",
-"#      s background m black c #64e969678a3c",
-"@      s background m black c #d554a15d1824",
+"%      s topShadowColor  m white c #f495d026b40d",
+".      s bottomShadowColor  m black c #78114cbd2b54",
+"$      s topShadowColor  m white c #e2c5c9f9c0ac",
+"+      s bottomShadowColor  m black c #61ba44ec3a1f",
+"#      s background m black c #be0086007100",
+"@      s background m black c #e60093005300",
 "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
 "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%.",
 "%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@..",

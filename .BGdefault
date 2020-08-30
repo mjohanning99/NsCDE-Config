@@ -3,7 +3,7 @@
 static char *Background[] = {
 /* columns rows colors chars-per-pixel */
 "16 16 1 1",
-"  s background  m  black c #5eaa656f6e14",
+"  s background  m  black c #3c0081008f00",
 /* pixels */
 "                ",
 "                ",

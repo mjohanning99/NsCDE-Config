@@ -13,10 +13,10 @@ static char * Fterm [] = {
 "48 48 11 1 0 0",
 /* colors */
 "     s none	m none	c none",
-".    s bottomShadowColor m black c #314633784380",
+".    s bottomShadowColor m black c #61ba44ec3a1f",
 "X    s iconGray1     m white c #dededededede",
 "o    s iconColor2    m white c white",
-"O    s topShadowColor m white c #b94dbb59ca50",
+"O    s topShadowColor m white c #e2c5c9f9c0ac",
 "+    s iconGray2     m white c #bdbdbdbdbdbd",
 "@    s iconGray8     m black c #212121212121",
 "#    s iconGray6     m black c #636363636363",

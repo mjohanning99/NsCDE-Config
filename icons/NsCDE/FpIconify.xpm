@@ -5,8 +5,8 @@ static char *FpIconify_xpm[] = {
 "     4     4        3            1",
 /* colors */
 "       c None",
-"#      s bottomShadowColor    m    black c #2c1834673efe",
-".      s topShadowColor    m    white c #b479bc50c64f",
+"#      s bottomShadowColor    m    black c #42aa43ad45b2",
+".      s topShadowColor    m    white c #c882c967cb32",
 /* pixels */
 "...#",
 ".  #",

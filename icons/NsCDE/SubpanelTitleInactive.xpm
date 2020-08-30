@@ -3,8 +3,8 @@
 static char * SubpanelTitleInactive_xpm[] = {
 "16 18 3 1",
 " 	c None",
-"+      c #b479bc50c64f",
-".      c #2c1834673efe",
+"+      c #c882c967cb32",
+".      c #42aa43ad45b2",
 "++++++++++++++++",
 "                ",
 "                ",
