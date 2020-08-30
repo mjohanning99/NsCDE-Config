@@ -1,0 +1,4 @@
+nm-applet &
+touchpad-indicator &
+redshift-gtk &
+ibus-daemon -drx --panel /usr/lib/ibus/ibus-ui-gtk3
