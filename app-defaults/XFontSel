@@ -1,0 +1,28 @@
+!
+! This file is a part of the NsCDE - Not so Common Desktop Environment
+! Author: Hegel3DReloaded
+! Licence: GPLv3
+!
+
+XFontSel.geometry: 656x242+16+133
+XFontSel*Background: #5af46c1681ef
+XFontSel*Foreground: #ffffffffffff
+
+XFontSel.cursor:	left_ptr
+*allowShellResize:	true
+
+*commandBox.ShowGrip:	true
+*commandBox*top:	chainTop
+*commandBox*bottom:	chainTop
+
+xfontsel.pane.fontName.background: #557b64e9707a
+xfontsel.pane.viewPort.sampleText.background: #557b64e9707a
+
+*quitButton.Label:	dismiss
+
+*fieldBox*MenuButton.BorderWidth:	1
+*fieldBox*MenuButton.internalHeight:	1
+*fieldBox*MenuButton.internalWidth:	1
+*fieldBox*MenuButton.shapeStyle:	rectangle
+
+*fieldBox*field11.menu.Options.ShowUnselectable: False

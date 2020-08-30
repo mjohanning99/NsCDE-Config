@@ -1,0 +1,12 @@
+!
+! This file is a part of the NsCDE - Not so Common Desktop Environment
+! Author: Hegel3DReloaded
+! Licence: GPLv3
+!
+
+! xclock*background: #557b64e9707a
+! xclock*foreground: #ffffffffffff
+! xclock*hands: #ffffffffffff
+! xclock*highlight: #ffffffffffff
+xclock*chime: False
+xclock*padding: 8

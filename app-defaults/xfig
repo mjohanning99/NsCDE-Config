@@ -1,0 +1,10 @@
+!
+! This file is a part of the NsCDE - Not so Common Desktop Environment
+! Author: Hegel3DReloaded
+! Licence: GPLv3
+!
+
+xfig*Background: #5af46c1681ef
+xfig*Foreground: #ffffffffffff
+xfig.form.canvas.background: #557b64e9707a
+

@@ -1,0 +1,54 @@
+!
+! This file is a part of the NsCDE - Not so Common Desktop Environment
+! Author: Hegel3DReloaded
+! Licence: GPLv3
+!
+
+URxvt*geometry: 86x26
+URxvt*background: #557b64e9707a
+URxvt*foreground: #ffffffffffff
+URxvt*highlightColor: #ffffffffffff
+URxvt*highlightTextColor: #557b64e9707a
+URxvt*scrollColor: #64e969678a3c
+URxvt*troughColor: #55c65997757f
+URxvt*borderColor: #64e969678a3c
+URxvt*thickness: 12
+URxvt*scrollBar_right: True
+URxvt*urgentOnBell: True
+URxvt*visualBell: False
+URxvt*multiClickTime: 750
+URxvt*scrollstyle: rxvt
+URxvt*scrollBar_align: centre
+URxvt*scrollWithBuffer: False
+URxvt*saveLines: 32000
+URxvt*internalBorder: 3
+URxvt*externalBorder: 1
+URxvt*modifier: mod4
+URxvt*font: xft:DejaVu Sans Mono:style=Book:pixelsize=14,\
+            xft:DejaVu Sans Mono:style=Book:pixelsize=16,\
+            xft:DejaVu Sans Mono:style=Book:pixelsize=18,\
+            xft:DejaVu Sans Mono:style=Book:pixelsize=20,\
+            xft:DejaVu Sans Mono:style=Book:pixelsize=12,\
+            xft:DejaVu Sans Mono:style=Book:pixelsize=10,\
+            xft:DejaVu Sans Mono:style=Book:pixelsize=9
+URxvt*boldFont: xft:DejaVu Sans Mono:style=Bold:pixelsize=14,\
+                xft:DejaVu Sans Mono:style=Bold:pixelsize=16,\
+                xft:DejaVu Sans Mono:style=Bold:pixelsize=18,\
+                xft:DejaVu Sans Mono:style=Bold:pixelsize=20,\
+                xft:DejaVu Sans Mono:style=Bold:pixelsize=12,\
+                xft:DejaVu Sans Mono:style=Bold:pixelsize=10,\
+                xft:DejaVu Sans Mono:style=Bold:pixelsize=9
+URxvt*italicFont: xft:DejaVu Sans Mono:style=Oblique:pixelsize=14,\
+                  xft:DejaVu Sans Mono:style=Oblique:pixelsize=16,\
+                  xft:DejaVu Sans Mono:style=Oblique:pixelsize=18,\
+                  xft:DejaVu Sans Mono:style=Oblique:pixelsize=20,\
+                  xft:DejaVu Sans Mono:style=Oblique:pixelsize=12,\
+                  xft:DejaVu Sans Mono:style=Oblique:pixelsize=10,\
+                  xft:DejaVu Sans Mono:style=Oblique:pixelsize=9
+URxvt*boldItalicFont: xft:DejaVu Sans Mono:style=Bold Oblique:pixelsize=14,\
+                      xft:DejaVu Sans Mono:style=Bold Oblique:pixelsize=16,\
+                      xft:DejaVu Sans Mono:style=Bold Oblique:pixelsize=18,\
+                      xft:DejaVu Sans Mono:style=Bold Oblique:pixelsize=20,\
+                      xft:DejaVu Sans Mono:style=Bold Oblique:pixelsize=12,\
+                      xft:DejaVu Sans Mono:style=Bold Oblique:pixelsize=10,\
+                      xft:DejaVu Sans Mono:style=Bold Oblique:pixelsize=9

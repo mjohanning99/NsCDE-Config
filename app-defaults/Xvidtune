@@ -1,0 +1,11 @@
+!
+! This file is a part of the NsCDE - Not so Common Desktop Environment
+! Author: Hegel3DReloaded
+! Licence: GPLv3
+!
+
+xvidtune.background: #5af46c1681ef
+xvidtune.foreground: #ffffffffffff
+xvidtune.form*Scrollbar*background: #557b64e9707a
+xvidtune.form*Command*background: #2c1834673efe
+xvidtune.form*Command*foreground: #5af46c1681ef

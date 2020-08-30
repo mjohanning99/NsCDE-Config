@@ -1,0 +1,25 @@
+/* XPM */
+/* This file is a part of the NsCDE - Not so Common Desktop Environment */
+static char * SubpanelTitleActive_xpm[] = {
+"16 18 3 1",
+" 	c None",
+"+      c #ecffd5dc98c3",
+".      c #6cb152370c4c",
+"++++++++++++++++",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"................"};

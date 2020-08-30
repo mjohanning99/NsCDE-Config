@@ -1,0 +1,5 @@
+S8,NAME,$[gt.Tools]
+S8,WIDTH,160
+S8,ENABLED,1
+S8,ENTRY,Atom,,32x32-atom.png,atom
+S8,ENTRY,Anki,,32x32-anki.png,anki 
